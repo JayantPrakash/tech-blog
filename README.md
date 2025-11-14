@@ -22,8 +22,6 @@ visit  127.0.0.1:8000/
 ```
 
 Features:
- - ✔️ Course [FastAPI Course](https://www.fastapitutorial.com/blog/fastapi-course/)
- - ✔️ Hello World
  -   Connecting to Database
  -   Migration by alembic
  -   Schemas
